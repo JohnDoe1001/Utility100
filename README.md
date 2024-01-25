@@ -8,13 +8,13 @@
 
 As of now, the program has got the following features:
 
-    - None
+- None
 
 ## Pending features:
 
 We're currently working on these features:
 
-    - None
+- None
 
 # 2. Tutorial
 
