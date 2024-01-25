@@ -1,7 +1,6 @@
 # Welcome to Utility100!
-## This README instruction will introduce you to the features
-## of the program, as well as the file structure & a contribution
-## guide.
+## This README instruction will introduce you to the features of the program, as well as the file structure & a contribution guide.
+
 ## Let's get started!
 
 # 1. Features
